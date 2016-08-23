@@ -1,0 +1,13 @@
+{
+    "name": "schnittstabil/slim-issue-1829",
+    "require": {
+        "slim/slim": "^3.5"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michael Mayer",
+            "email": "michael@schnittstabil.de"
+        }
+    ]
+}
